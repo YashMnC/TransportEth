@@ -1,14 +1,14 @@
 # TransportEth
 
-## Web 3.0 Blockchain Application.
+### Web 3.0 Blockchain Application.
 
-## Connect your metamask wallet.
+### Connect your metamask wallet.
 
-## Send Eth around the world.
+### Send Eth around the world.
 
-## Add a message to the receiver.
+### Add a message to the receiver.
 
-## View all your transactions.
+### View all your transactions.
 
 # Getting Started with Create React App
 
